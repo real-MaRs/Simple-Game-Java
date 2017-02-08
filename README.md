@@ -1,1 +1,1 @@
-Making a simple game in java.
+Making a simple game in java. WIP.
